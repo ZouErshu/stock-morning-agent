@@ -1,0 +1,12 @@
+{
+  "name": "默认用户",
+  "style": "均衡型投资者",
+  "focus_sectors": [],
+  "avoid_sectors": [],
+  "risk_tolerance": "中等",
+  "analysis_preference": "全面客观分析，不偏向任何方向",
+  "market_bias": "中性",
+  "custom_notes": "",
+  "created_at": "2026-07-21",
+  "updated_at": "2026-07-21"
+}
